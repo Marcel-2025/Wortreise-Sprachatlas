@@ -14,11 +14,10 @@ Kein npm, Build-Prozess oder Server nötig. Relative Asset-Pfade unterstützen a
 - Responsive Premium-Landingpage, Screenshot-Galerie und FAQ.
 - Zwei Marken-Icons und 16 Sprach-Icons als 4×4-Sprite.
 - Echte App-Ansichten; Weltkarte als Entwicklungsvorschau gekennzeichnet.
-- Datenschutz-Altentwurf, ausdrücklich NICHT für GitHub Pages fertiggestellt.
+- Datenschutzerklärung (Stand 12.11.2026, gleich wie Marcel-2025.github.io/Russisch-taeglich) und Impressum.
 
 ## Vor öffentlicher Werbung
 
-- datenschutz.html enthält den alten ChatGPT-Sites-Entwurf. Für GitHub Pages anpassen und prüfen lassen; vollständige Betreiberangaben ergänzen.
 - Das verlinkte zentrale Impressum auf Vollständigkeit und Gültigkeit prüfen.
 - Die Lernbuttons führen zur bisherigen privaten Web-App. Durch die öffentliche Landingpage wird diese nicht öffentlich. Bei Bedarf alle drei Links in index.html durch deine öffentliche App-/Store-Adresse ersetzen.
 - Store-Freigabe und Funktionsumfang vor Werbung abgleichen. Keine Zahlungsfunktion enthalten.
